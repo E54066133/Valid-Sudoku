@@ -1,6 +1,6 @@
 # Valid-Sudoku
 Valid Sudoku
-
+ 
 
 ## 說明 
 這支程式是課堂遊戲  
