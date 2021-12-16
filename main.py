@@ -1,4 +1,4 @@
-class Solution:
+class Sudoku:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         for i in range(9):                                                          # 產生九宮格
             for j in range(9):
